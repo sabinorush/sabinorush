@@ -6,7 +6,7 @@
 
 :computer: Programador com foco em desenvolvimento web.
 
-Desenvolvedor web jr em formação pela @generationbrasil
+Desenvolvedor java jr em formação pela @generationbrasil
 
 > "Patience is a key element of success"
 
