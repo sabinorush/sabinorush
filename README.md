@@ -6,7 +6,7 @@
 
 :computer: Programador com foco em desenvolvimento web.
 
-:books: Estudando React, NextJS, Typescript, NodeJS na @rocketseat :rocket:
+Desenvolvedor web jr em formação pela @generationbrasil
 
 > "Patience is a key element of success"
 
