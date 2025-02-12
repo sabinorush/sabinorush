@@ -26,7 +26,7 @@ I had my first contact with programming in 2020 at the Impacta College of Techno
 
 I have knowledge in building web, API or desktop solutions by integrating applications together.
 
-Hard Skills:
+#### Hard Skills:
 - JavaScript
 - Node.js
 - NestJs
@@ -38,14 +38,17 @@ Hard Skills:
 - DDD (Domain-Driven Design)
 - SCRUM
 
-Aligned with knowledge in:
+#### Aligned with knowledge in:
 - React.js
 - Sass | CSS | HTML
 - Git
 
-Soft Skills:
+#### Soft Skills:
 - Self learner
 - Good communication skills
 - Good at team work environment
 - Strong organization skills and management time
 - Agile methodology(Scrum, TDD)
+
+
+
